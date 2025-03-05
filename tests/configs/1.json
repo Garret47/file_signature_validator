@@ -1,0 +1,7 @@
+{
+  "command": "CheckLocalFile",
+  "params": {
+    "FilePath": "./tests/files/1.txt",
+    "signature": "0A0A"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "command": "QuarantineLocalFile",
+  "params": {
+    "FilePath": "./tests/files/1.txt"
+  }
+}
